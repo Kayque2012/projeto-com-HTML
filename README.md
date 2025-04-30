@@ -27,7 +27,7 @@ Ainda em desenvolvimento...
 - Inscrever usuários em eventos  
 - Validar dados  
 - Conectar sistema (Python) ao banco de dados
-- Tela de Interface conectada ao Python e MySql 
+- Tela de Interface conectada ao Python e MySQL 
 
 ## Tecnologias utilizadas
 -  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python" width="40"/>
